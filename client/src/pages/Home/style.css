@@ -1,0 +1,60 @@
+.image-hero{
+    height: 100vh;
+    background: url("https://preview.colorlib.com/theme/security/img/header-bg.jpg.webp");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    flex-wrap: wrap;
+}
+.container {
+    width: 80%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.banner-content {
+    text-align: left;
+}
+.banner-content h6 {
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.banner-content h1 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 1em;
+    margin-top: 20px;
+}
+.text-white {
+    color: #fff;
+}
+.primary-btn {
+    border-radius: 10px;
+    background-color: #fab700;
+    line-height: 42px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border: none;
+    color: #fff;
+    display: inline-block;
+    font-weight: 500;
+    position: relative;
+    border: 1px solid transparent;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    text-transform: uppercase;
+    position: relative;
+}
+.pt-20 {
+    padding-top: 20px;
+}
+.pb-20 {
+    padding-bottom: 20px;
+}
